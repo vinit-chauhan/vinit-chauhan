@@ -1,3 +1,22 @@
-Hey There!! 👋
+## Hey There!! It's Vinit... 👋
 
-![Vinit Chauhan's GitHub stats](https://github-readme-stats-pppqh68oc-vinit-elastic.vercel.app/api?username=vinit-chauhan&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+- Master of Applied Computing (MAC) student at the [University of Windsor](https://www.uwindsor.ca/). Windsor, ON 🇨🇦📚
+- Passionate about software development, problem-solving, and quick adaptation to new technologies 💻🔧
+- Proficient in Java, solid grasp of golang, and well-versed in Object-Oriented concepts, Data Structures, and Algorithms 🚀
+- Love to tinker with systems and interested in the field of Cyber Security 💻🔨
+- Former Software Engineer at [Crest Data Systems Pvt. Ltd.](https://www.crestdatasys.com), delivering impactful software solutions ✨
+- Mentor and tutor, empowering interns in Elasticsearch for technical growth and professional development 🌟
+- Eager to expand skills, leverage experiences, and learn from industry professionals 🌱
+- Actively seeking SDE internship/co-op opportunities for Spring/Summer 2024 🌤️
+- Let's connect: [https://www.linkedin.com/in/chauhan-vinit/](https://www.linkedin.com/in/chauhan-vinit/) 🤝
+- Email: chauhanvinit23@gmail.com ✉️
+- Feel free to reach out if you have suitable roles or insights to share or just want to talk about tech. 📬🤝
+
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p><img align="center" src="https://github-readme-stats-pppqh68oc-vinit-elastic.vercel.app/api/top-langs?username=vinit-chauhan&show_icons=true&locale=en&layout=compact" alt="vinit-chauhan" /></p>
+
+<p>&nbsp;<img src="https://github-readme-stats-pppqh68oc-vinit-elastic.vercel.app/api?username=vinit-chauhan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true" alt="vinit-chauhan" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yug-rajani&" alt="yug-rajani" /></p>
