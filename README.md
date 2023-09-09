@@ -6,6 +6,8 @@
 - Love to tinker with systems and interested in the field of Cyber Security 💻🔨
 - Former Software Engineer at [Crest Data Systems Pvt. Ltd.](https://www.crestdatasys.com), delivering impactful software solutions ✨
 - Mentor and tutor, empowering interns in Elasticsearch for technical growth and professional development 🌟
+- Led a team of 13 members and supervised their progress. 🧑‍🤝‍🧑
+- Directed all project-related operations from beginning to end, including gathering client requirements, estimating necessary work, suggesting delivery schedules, and delivering the final product to the client. 🖋️📑
 - Eager to expand skills, leverage experiences, and learn from industry professionals 🌱
 - Actively seeking SDE internship/co-op opportunities for Spring/Summer 2024 🌤️
 - Let's connect: [https://www.linkedin.com/in/chauhan-vinit/](https://www.linkedin.com/in/chauhan-vinit/) 🤝
