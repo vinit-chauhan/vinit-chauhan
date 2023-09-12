@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img src="https://github-readme-stats-pppqh68oc-vinit-elastic.vercel.app/api?username=vinit-chauhan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true" alt="vinit-chauhan" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yug-rajani&" alt="yug-rajani" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinit-chauhan" alt="vinit-chauhan" /></p>
