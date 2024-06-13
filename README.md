@@ -10,9 +10,15 @@
 - Directed all project-related operations from beginning to end, including gathering client requirements, estimating necessary work, suggesting delivery schedules, and delivering the final product to the client. 🖋️📑
 - Eager to expand skills, leverage experiences, and learn from industry professionals 🌱
 - Actively seeking SDE internship/co-op opportunities for Spring/Summer 2024 🌤️
-- Let's connect: [https://www.linkedin.com/in/chauhan-vinit/](https://www.linkedin.com/in/chauhan-vinit/) 🤝
+- Let's connect:
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="chauhan-vinit" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/chauhan-vinit?trk=profile-badge">Vinit Chauhan</a></div>
+              
+ [https://www.linkedin.com/in/chauhan-vinit/](https://www.linkedin.com/in/chauhan-vinit/) 🤝
 - Email: chauhanvinit23@gmail.com ✉️
 - Feel free to reach out if you have suitable roles or insights to share or just want to talk about tech. 📬🤝
+
 
 
 <h3 align="left">Languages and Tools:</h3>
