@@ -4,7 +4,7 @@
 - Passionate about software development, problem-solving, and quick adaptation to new technologies 💻🔧
 - Proficient in Golang, C, and Rust, and well-versed in Object-Oriented concepts, Data Structures, and Algorithms 🚀
 - Love to tinker with systems and am interested in the field of Cyber Security 💻🔨
-- Currently working as a Summer Coop student at [Sterling Information Technologies Inc.](https://sterlinginfo.com/) as a Software Engineer, doing Research work on ZTNA. 🛡️
+- Worked as Software Engineer at [Sterling Information Technologies Inc.](https://sterlinginfo.com/) as a Software Engineer, conducted Research work on ZTNA. 🛡️
 - Former Software Engineer at [Crest Data Systems Pvt. Ltd.](https://www.crestdatasys.com), delivering impactful software solutions ✨
 - Mentor and tutor, empowering interns in Elasticsearch for technical growth and professional development 🌟
 - Led a team of 15 members and supervised their progress. 🧑‍🤝‍🧑
