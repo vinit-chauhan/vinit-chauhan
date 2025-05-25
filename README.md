@@ -36,11 +36,3 @@ Backend engineer who enjoys building distributed systems, crafting developer too
 ![Top Langs](https://github-readme-stats-pppqh68oc-vinit-elastic.vercel.app/api/top-langs?username=vinit-chauhan&show_icons=true&locale=en&layout=compact)
 ![GitHub Stats](https://github-readme-stats-pppqh68oc-vinit-elastic.vercel.app/api?username=vinit-chauhan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinit-chauhan)
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p><img align="center" src="https://github-readme-stats-pppqh68oc-vinit-elastic.vercel.app/api/top-langs?username=vinit-chauhan&show_icons=true&locale=en&layout=compact" alt="vinit-chauhan" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats-pppqh68oc-vinit-elastic.vercel.app/api?username=vinit-chauhan&show=reviews,prs_merged,prs_merged_percentage&show_icons=true" alt="vinit-chauhan" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinit-chauhan" alt="vinit-chauhan" /></p>
