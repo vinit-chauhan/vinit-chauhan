@@ -27,7 +27,6 @@ Backend engineer who enjoys building distributed systems, crafting developer too
 
 - **GitHub**: [vinit-chauhan](https://github.com/vinit-chauhan)
 - **LinkedIn**: [chauhan-vinit](https://linkedin.com/in/chauhan-vinit)
-- **Email**: chauhanvinit23@gmail.com
 
 ---
 
